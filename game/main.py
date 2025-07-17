@@ -1,0 +1,1 @@
+print("digamos que esto es un juego")
